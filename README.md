@@ -209,12 +209,12 @@ SANJAYA is designed around the Digital Personal Data Protection Act, 2023:
 
 | Name | Role | GitHub |
 |---|---|---|
-| Sohan Paul | Team lead | [@username](https://github.com/sohan-paul) |
-| Devansh Sengupta | Participant | [@username](https://github.com/username) |
-| Roushan Kumar Yadav | _Role_ | [@username](https://github.com/username) |
-| Rohan Agarwal| _Role_ | [@username](https://github.com/username) |
-| Subhojit Mallick | _Role_ | [@username](https://github.com/username) |
-| Sohali Das | _Role_ | [@username](https://github.com/username) |
+| Sohan Paul | Team lead | [@sohan-paul](https://github.com/sohan-paul) |
+| Devansh Sengupta | Member | [@username](https://github.com/username) |
+| Roushan Kumar Yadav | Member | [@username](https://github.com/username) |
+| Rohan Agarwal| Member | [@username](https://github.com/username) |
+| Subhojit Mallick | Member | [@username](https://github.com/username) |
+| Sohali Das | Member | [@username](https://github.com/username) |
 
 ## Disclaimer
 
