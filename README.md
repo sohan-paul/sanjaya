@@ -209,14 +209,16 @@ SANJAYA is designed around the Digital Personal Data Protection Act, 2023:
 
 | Name | Role | GitHub |
 |---|---|---|
-| _Team leader name_ | Team lead | [@username](https://github.com/username) |
-| _Member name_ | _Role_ | [@username](https://github.com/username) |
-| _Member name_ | _Role_ | [@username](https://github.com/username) |
-| _Member name_ | _Role_ | [@username](https://github.com/username) |
+| Sohan Paul | Team lead | [@username](https://github.com/sohan-paul) |
+| Devansh Sengupta | Participant | [@username](https://github.com/username) |
+| Roushan Kumar Yadav | _Role_ | [@username](https://github.com/username) |
+| Rohan Agarwal| _Role_ | [@username](https://github.com/username) |
+| Subhojit Mallick | _Role_ | [@username](https://github.com/username) |
+| Sohali Das | _Role_ | [@username](https://github.com/username) |
 
 ## Disclaimer
 
-SANJAYA is a hackathon prototype built for Smart India Hackathon 2026. It is not an official AICTE, Ministry of Education or APAAR product. The prototype uses mock data only and does not connect to any government system.
+SANJAYA is a hackathon prototype built for Smart India Hackathon 2026. It is not an official AICTE, Ministry of Education or APAAR product. The prototype uses mock data only and does not connect to any government system yet.
 
 ## License
 
