@@ -208,7 +208,7 @@ SANJAYA is designed around the Digital Personal Data Protection Act, 2023:
 **GitMinds**, Netaji Subhash Engineering College (NSEC)
 
 | Name | Role | 
-
+|---|---|
 | Sohan Paul | Team lead | 
 | Devansh Sengupta | Member | 
 | Roushan Kumar Yadav | Member | 
